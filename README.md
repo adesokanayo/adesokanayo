@@ -21,11 +21,12 @@ This is the place where I make stuff and break stuffs :rofl:
 <a href="https://linkedin.com/in/adesokanayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://instagram.com/adesokanayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**Github Stats**
   
-  [![Ayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesokanayo)](https://github.com/anuraghazra/github-readme-stats)
-
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=truethinker&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+[![Ayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=adesokanayo)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Ayo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=truethinker)](https://wakatime.com/@truethinker)
+  
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
